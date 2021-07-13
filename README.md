@@ -1,5 +1,4 @@
-# ML
-A program to detect hand signs through the webcam
+# A program to detect hand signs through the webcam
 Collect_data.py is used to collect the images of hands with various signs and convert it into black and white before predicting what it is.
 
 train.py has the code to train the model.
